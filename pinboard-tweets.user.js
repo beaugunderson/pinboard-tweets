@@ -7,6 +7,7 @@
 // @copyright    2016, Beau Gunderson (https://beaugunderson.com/)
 // @license      MIT
 // @homepageURL  https://github.com/beaugunderson.com/pinboard-tweets/
+// @match        http://pinboard.in/*
 // @match        https://pinboard.in/*
 // @grant        none
 // @require      https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js
