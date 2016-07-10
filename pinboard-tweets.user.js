@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Pinboard Tweet links to embedded Tweets
 // @namespace    https://beaugunderson.com/
-// @version      1.0
+// @version      1.1
 // @description  Change Twitter links to Tweet embeds on Pinboard.
 // @author       Beau Gunderson
 // @copyright    2016, Beau Gunderson (https://beaugunderson.com/)
@@ -12,6 +12,7 @@
 // @grant        none
 // @require      https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js
 // @updateURL    https://openuserjs.org/meta/beaugunderson/Pinboard_Tweet_links_to_embedded_Tweets.meta.js
+// @supportURL   https://github.com/beaugunderson/pinboard-tweets/issues
 // ==/UserScript==
 
 // ==OpenUserJS==
