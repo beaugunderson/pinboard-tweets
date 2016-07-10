@@ -10,6 +10,7 @@
 // @match        https://pinboard.in/*
 // @grant        none
 // @require      https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js
+// @updateURL    https://openuserjs.org/meta/beaugunderson/Pinboard_Tweet_links_to_embedded_Tweets.meta.js
 // ==/UserScript==
 
 // ==OpenUserJS==
